@@ -25,3 +25,4 @@
 [![](https://visitcount.itsvg.in/api?id=codewithperry&icon=3&color=1)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+![Snake animation](https://raw.githubusercontent.com/codewithperry/codewithperry/output/github-contribution-grid-snake-dark.svg)
