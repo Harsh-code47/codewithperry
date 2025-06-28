@@ -1,5 +1,5 @@
 # 💫 About Me:
-🌱 I’m currently learning : Python<br>💬 Ask me about : Hostings, Python, Discord Bots<br>⚡ Fun fact : I never used a PC, used a Linux tablet to code.
+🌱 I’m currently learning : Python<br>💬 Ask me about : Hostings, Python, Discord Bots<br>⚡ Fun fact : I used a Linux tablet and a PC to code.
 
 
 ## 🌐 Socials:
